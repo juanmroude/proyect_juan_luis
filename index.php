@@ -10,6 +10,8 @@
     <?php include 'components/nav.php';  ?>
     </header>
 
+<h1>un titulo </h1>
+<h2>un sub titulo </h2>
 
 <footer>
 <?php include 'components/footer.php';  ?>
