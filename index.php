@@ -10,7 +10,11 @@
     <?php include 'components/nav.php';  ?>
     </header>
 
+<h1>un titulo </h1>
+<h2>un sub titulo </h2>
+<ul>
 
+<ul>
 <footer>
 <?php include 'components/footer.php';  ?>
 </footer>
